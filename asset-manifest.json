@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ticket-system/static/css/main.cd6da3a2.chunk.css",
+    "main.js": "/ticket-system/static/js/main.a20e22bd.chunk.js",
+    "main.js.map": "/ticket-system/static/js/main.a20e22bd.chunk.js.map",
+    "runtime-main.js": "/ticket-system/static/js/runtime-main.1aad14ba.js",
+    "runtime-main.js.map": "/ticket-system/static/js/runtime-main.1aad14ba.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/ticket-system/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.df1b3bb3.chunk.js": "/ticket-system/static/js/2.df1b3bb3.chunk.js",
+    "static/js/2.df1b3bb3.chunk.js.map": "/ticket-system/static/js/2.df1b3bb3.chunk.js.map",
+    "index.html": "/ticket-system/index.html",
+    "precache-manifest.08e170bcfecd59cc3d228108da8f3040.js": "/ticket-system/precache-manifest.08e170bcfecd59cc3d228108da8f3040.js",
+    "service-worker.js": "/ticket-system/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/ticket-system/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.cd6da3a2.chunk.css.map": "/ticket-system/static/css/main.cd6da3a2.chunk.css.map",
+    "static/js/2.df1b3bb3.chunk.js.LICENSE": "/ticket-system/static/js/2.df1b3bb3.chunk.js.LICENSE",
+    "static/media/logo.png": "/ticket-system/static/media/logo.74e7bd46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aad14ba.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.df1b3bb3.chunk.js",
+    "static/css/main.cd6da3a2.chunk.css",
+    "static/js/main.a20e22bd.chunk.js"
+  ]
+}
